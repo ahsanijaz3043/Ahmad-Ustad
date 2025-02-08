@@ -16,6 +16,8 @@ int main() {
             cout << num << " is Odd." << endl;
              }
              <h1>Ayesha-Ahmad<h1>
+	     <br>
+      Ahsan Ijaz
 
         cout << "Do you want check again ? (y/n): ";
         cin >> s;
